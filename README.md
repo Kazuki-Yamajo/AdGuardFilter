@@ -1,0 +1,2 @@
+# AdGuardFilter
+280blocker
